@@ -18,7 +18,8 @@ html, body {
 	overflow-x: hidden;
 	font-family: 'Lato', sans-serif;
 	font-family: 'Outfit', sans-serif;
-  }\img {
+  }
+img {
 	max-width: 100%;
   }
   a {
